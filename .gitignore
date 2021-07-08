@@ -4,18 +4,9 @@
 /node_modules
 /public/hot
 /public/storage
+/public/uploads
 /storage/*.key
 /vendor
-/.idea
-/.vscode
-/.vagrant
-Homestead.json
-Homestead.yaml
-npm-debug.log
-yarn-error.log
-.DS_Store
-.idea/
-
 /temp
 /.idea
 /.vscode
@@ -27,7 +18,9 @@ yarn-error.log
 .DS_Store
 .idea/
 
-
+updates/
+composer.lock
+*.lock
 resources/lang/en.json
 .env
 updates.zip
